@@ -1,6 +1,6 @@
-# 鲜期管家 · 隐私政策
+# 鲜期小本 · 隐私政策
 
-本仓库仅用于托管「鲜期管家」（包名 `com.pengfuze.shelflife`）的隐私政策页面。
+本仓库仅用于托管「鲜期小本」（包名 `com.pengfuze.shelflife`）的隐私政策页面。
 
 - 线上地址：`https://<你的GitHub用户名>.github.io/shelflife-privacy/`
 - 入口文件：`index.html`
